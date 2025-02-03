@@ -1,0 +1,22 @@
+.about-center{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 40px;
+}
+.about-div{
+	background-color: white;
+	margin-top: 40px ;
+	padding: 5px 50px;
+	padding-bottom: 30px;
+}
+.about-img{
+	border-radius: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.about-title{
+	font-weight: bold;
+	font-size: 20px;
+
+}

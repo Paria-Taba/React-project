@@ -1,0 +1,41 @@
+.header-div{
+	background-image: url('/public/images/hero-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	height: 600px;
+}
+.header-row{
+	
+padding: 20px;
+	width: 100%;
+	background-color: rgb(0, 0, 0,0.9);
+	display: flex;
+}
+.title-div{
+margin-left: 30px;
+}
+.title-header{
+	font-weight: bold;
+	font-size: 30px;
+}
+.nav{
+	margin-right: 30px;
+}
+.nav ul{
+	font-size: 20px;
+	list-style: none;
+	display: flex;
+	gap: 40px;
+}
+.center-header{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+	margin-top: 250px;
+}
+.center-header h1{
+	font-size: 65px;
+}

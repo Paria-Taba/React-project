@@ -1,0 +1,26 @@
+.blog-div{
+	background-color: white;
+	border: 1px solid gray;
+	
+}
+.blog-img{
+	width: 100%;
+}
+.blog-box-text{
+	padding: 20px;
+}
+.title-blog{
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+.blog-row{
+	display: flex;
+	flex-direction: row;
+	background-color: rgb(216, 216, 216);
+	border-top: 1px solid gray;
+	padding: 10px;
+}
+.min{
+	margin-left: 10px;
+}
